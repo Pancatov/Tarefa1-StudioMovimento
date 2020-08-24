@@ -1,0 +1,13 @@
+﻿  Origem.cpp
+C:\Users\alber\source\repos\Tarefa_ArrayFloat\Tarefa_ArrayFloat\Origem.cpp(12,20): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\alber\source\repos\Tarefa_ArrayFloat\Tarefa_ArrayFloat\Origem.cpp(13,20): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\alber\source\repos\Tarefa_ArrayFloat\Tarefa_ArrayFloat\Origem.cpp(14,20): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\alber\source\repos\Tarefa_ArrayFloat\Tarefa_ArrayFloat\Origem.cpp(15,20): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\alber\source\repos\Tarefa_ArrayFloat\Tarefa_ArrayFloat\Origem.cpp(17,20): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\alber\source\repos\Tarefa_ArrayFloat\Tarefa_ArrayFloat\Origem.cpp(18,20): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\alber\source\repos\Tarefa_ArrayFloat\Tarefa_ArrayFloat\Origem.cpp(19,20): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\alber\source\repos\Tarefa_ArrayFloat\Tarefa_ArrayFloat\Origem.cpp(28,20): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\alber\source\repos\Tarefa_ArrayFloat\Tarefa_ArrayFloat\Origem.cpp(29,20): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\alber\source\repos\Tarefa_ArrayFloat\Tarefa_ArrayFloat\Origem.cpp(30,21): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\alber\source\repos\Tarefa_ArrayFloat\Tarefa_ArrayFloat\Origem.cpp(31,21): warning C4305: 'argumento': truncamento de 'double' para 'float'
+  Tarefa_ArrayFloat.vcxproj -> C:\Users\alber\source\repos\Tarefa_ArrayFloat\Debug\Tarefa_ArrayFloat.exe
